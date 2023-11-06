@@ -1,0 +1,10 @@
+D:\Github\Redis.API\Redis.Cache\bin\Debug\netstandard2.1\Redis.Cache.deps.json
+D:\Github\Redis.API\Redis.Cache\bin\Debug\netstandard2.1\Redis.Cache.dll
+D:\Github\Redis.API\Redis.Cache\bin\Debug\netstandard2.1\Redis.Cache.pdb
+D:\Github\Redis.API\Redis.Cache\obj\Debug\netstandard2.1\Redis.Cache.csproj.AssemblyReference.cache
+D:\Github\Redis.API\Redis.Cache\obj\Debug\netstandard2.1\Redis.Cache.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Redis.API\Redis.Cache\obj\Debug\netstandard2.1\Redis.Cache.AssemblyInfoInputs.cache
+D:\Github\Redis.API\Redis.Cache\obj\Debug\netstandard2.1\Redis.Cache.AssemblyInfo.cs
+D:\Github\Redis.API\Redis.Cache\obj\Debug\netstandard2.1\Redis.Cache.csproj.CoreCompileInputs.cache
+D:\Github\Redis.API\Redis.Cache\obj\Debug\netstandard2.1\Redis.Cache.dll
+D:\Github\Redis.API\Redis.Cache\obj\Debug\netstandard2.1\Redis.Cache.pdb
